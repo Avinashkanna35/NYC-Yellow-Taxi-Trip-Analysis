@@ -219,4 +219,4 @@ psql -d your_database -c "SELECT COUNT(*) FROM yellow_tripdata;"
 
 ## 📄 License
 
-This project is open source and available under the [MIT License](LICENSE).
+This project is open source and available under the [MIT License](LICENSE).For source data connect me on ---(kannaavinash594@gmail.com).Because of hudge size of data source did not upload but i asure  will share on request.
